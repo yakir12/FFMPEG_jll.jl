@@ -1,0 +1,113 @@
+[[FFMPEG]]
+arch = "aarch64"
+git-tree-sha1 = "96935103b825a160931c2f1d9097172a749cddc5"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "3c828bbb07774e2268f4219d288fde576f9e239998042120ecb3c2d5519a12b4"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.aarch64-linux-gnu.tar.gz"
+[[FFMPEG]]
+arch = "aarch64"
+git-tree-sha1 = "b85583c1ac7b3180850f82275fa34f383a62f9bb"
+libc = "musl"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "c91534627db18df04ce7f42241271ddcd806295be40b08ad7647da399553f95b"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.aarch64-linux-musl.tar.gz"
+[[FFMPEG]]
+arch = "armv7l"
+git-tree-sha1 = "0709ec08ec94b963db282b42be5e266f0744748e"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "9f7c1e20a193f98591007f9a0e31f0e9b743de2e2b06724644af400db315a831"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[FFMPEG]]
+arch = "armv7l"
+git-tree-sha1 = "7344f5a1dfb8e6a3445fe100ad204fa6e585f6dc"
+libc = "musl"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "a64fd55dc660c28616b8c40a432d0290cae8005ee5504af3223659a30238894b"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.armv7l-linux-musleabihf.tar.gz"
+[[FFMPEG]]
+arch = "i686"
+git-tree-sha1 = "be1a8a021d15305aa9047c0b17996bb52a67123d"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "1ae4da9f6e9aeb0f7755728bb842684b55fb0eecad315a99435dbc7fdf1d17a5"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.i686-linux-gnu.tar.gz"
+[[FFMPEG]]
+arch = "i686"
+git-tree-sha1 = "6013098a5499b050472f8e132f027e5bda7019be"
+libc = "musl"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "039d95c9a9e9ddadb9374461d1a410faf612a99b425ef25e75694f26d7a9c4a6"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.i686-linux-musl.tar.gz"
+[[FFMPEG]]
+arch = "i686"
+git-tree-sha1 = "54e667494d97821a81f22023dda5cbb0f889103f"
+os = "windows"
+
+    [[FFMPEG.download]]
+    sha256 = "2d46427c5e6609b6f1cbd49747d9521a16736cf9ec4fe1096d37645d538a0aca"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.i686-w64-mingw32.tar.gz"
+[[FFMPEG]]
+arch = "powerpc64le"
+git-tree-sha1 = "7e3cb3319bd557a95f70fc618b2a0510e6fe61f5"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "ba067135c1c4ab372a4a13fded6ff70223bd9e323c75a20fd6bab001aadc7a64"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.powerpc64le-linux-gnu.tar.gz"
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "0ef0186e82a7fe115346641ac7b45f083c97b656"
+os = "macos"
+
+    [[FFMPEG.download]]
+    sha256 = "74042335afd0f392b55e8bf930850e47f45a04227b588aadaede46ff23f9a167"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.x86_64-apple-darwin14.tar.gz"
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "21eb5ec0787333d5f5f1d9b6485b633e5ec8b47e"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "d64f9a822fe7f521f606b0919af00d960f56e396db1b7331cca6efa6550269db"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.x86_64-linux-gnu.tar.gz"
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "707ff29571e2debf0dfc13a3425e3620e1590c0a"
+libc = "musl"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "a288f0fef74d9088146c4918a2f3cd6113b661d2bea0af6cf4ee8278cb2a2593"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.x86_64-linux-musl.tar.gz"
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "08fb071bb1afd63bde63cda3fea72b032d034276"
+os = "freebsd"
+
+    [[FFMPEG.download]]
+    sha256 = "781fc4505cd5d4746e2341e551e911def3d9b7f351ad37623ebc1a5bb99bdca2"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "d81c6aef9cfd8a49ee0e75ced73a95c0f1a0d0d7"
+os = "windows"
+
+    [[FFMPEG.download]]
+    sha256 = "ec1f948df6d2ec85dda8508d619024d13a1eff2854687c676430a29b57bfe885"
+    url = "https://github.com/yakir12/FFMPEG_jll.jl/releases/download/FFMPEG-v4.1.0+4/FFMPEG.v4.1.0.x86_64-w64-mingw32.tar.gz"
